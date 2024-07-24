@@ -19,15 +19,13 @@ a {
 body {
     margin: 0;
     font-size: 22px;
-    
-}
 
+}
 .container {
     width: 1620px;
     margin: 0 auto;
     display: flex;
 }
-
 .menu-item.green {
     color: #b2ffa6;
 }
